@@ -1,1 +1,2 @@
 # Tutorial-Ninja-Manual-Testing
+The website I mentioned, Tutorials Ninja (https://tutorialsninja.com/demo/), is a demo e-commerce site designed for testing purposes, particularly for learning manual and automation testing techniques. It mimics the structure and functionality of a typical online store, offering various products like electronics, clothing, and more, which can be used to simulate real-world testing scenarios.
